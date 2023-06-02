@@ -1,0 +1,33 @@
+check the git config:
+
+	git config --list
+
+git: starting a repository:
+
+	git init    << intialize git into the directory
+	git status  << checks is there any change in directory or files
+
+git add:
+
+	git add .  << used to upload/add all files to repo in github
+
+git commit:
+
+	git commit -m "changed a button"
+
+git remote: << only for first time:
+
+	git remote add origin <repo url>
+
+git push:
+
+	git push -u origin main/master/any desired name for branch
+
+____________________________________________________________________________
+
+reseting the branch or reverting to old branch:
+
+	git branch -r   << list of all available branch in git remote 
+	git branch      << list of all available branch in git locally
+
+	git fetch    << list of all available branch in cloud
