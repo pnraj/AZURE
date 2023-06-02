@@ -1,0 +1,8 @@
+check the git config:
+
+	git config --list
+
+git: starting a repository:
+
+	git init
+	git status
