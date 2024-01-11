@@ -19,6 +19,8 @@ Clone the project repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/your-username/your-repository.git
+```
+
 
 ### 2. Configure Azure Event Hubs
 
